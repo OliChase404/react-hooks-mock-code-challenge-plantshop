@@ -41,6 +41,30 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 11,
+      "name": "The Fishy One",
+      "image": "https://images.unsplash.com/photo-1580133748682-099a97d17e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": "1000"
+    },
+    {
+      "id": 12,
+      "name": "The Fishy One",
+      "image": "https://images.unsplash.com/photo-1580133748682-099a97d17e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": "1000000"
+    },
+    {
+      "id": 13,
+      "name": "The Fishy One",
+      "image": "https://images.unsplash.com/photo-1580133748682-099a97d17e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": "1000000"
+    },
+    {
+      "id": 14,
+      "name": "The Fishy One",
+      "image": "https://images.unsplash.com/photo-1580133748682-099a97d17e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": "1000000"
     }
   ]
 }

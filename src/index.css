@@ -28,6 +28,12 @@ button.primary {
   color: white;
 }
 
+button.secondary {
+  background-color: rgb(182, 0, 0);
+  color: white;
+  margin-left: 4vw;
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
